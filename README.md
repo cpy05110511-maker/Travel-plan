@@ -1,8 +1,3 @@
-# 🌍 RoamWise
-
-![RoamWise](images/roamWise.jpg)
-
-**RoamWise** is an intelligent travel planning application designed to enhance your exploration and make your journeys more seamless. Unlock the full potential of your travels with personalized recommendations, comprehensive itineraries, and convenient travel management tools powered by AI.
 
 ## 📖 Overview
 
@@ -238,29 +233,12 @@ Contributions are welcome! Please follow these steps:
 4. Push to the branch (`git push origin feature/amazing-feature`)
 5. Open a Pull Request
 
-## 📄 License
-
-This project is licensed under the Apache License 2.0 - see the [LICENSE](LICENSE) file for details.
 
 ## 🙏 Acknowledgments
 
 - Built with [Chainlit](https://chainlit.io/) for the interactive chat interface
 - Powered by [LangGraph](https://langchain-ai.github.io/langgraph/) for agent orchestration
 - Uses [LangChain](https://www.langchain.com/) for LLM integration
-
-## 📞 Support
-
-For questions, issues, or feature requests, please:
-
-- Open an issue on GitHub
-- Check the [documentation](CHAT_HISTORY_SETUP.md)
-- Review existing issues and discussions
-
----
-
-**Made with ❤️ by Suman Das**
-
-*Simplifying travel planning, one journey at a time.*
 
 
 ## FastAPI Backend + Chainlit Frontend
